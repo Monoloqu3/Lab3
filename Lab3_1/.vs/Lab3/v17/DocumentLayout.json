@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarek\\source\\repos\\AplikacjaOkienkowa\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8275D783-B741-40A1-984F-A5D08F512CE0}|Zad1\\Zad1.csproj|C:\\Users\\Jarek\\source\\repos\\AplikacjaOkienkowa\\Lab3\\zad1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275D783-B741-40A1-984F-A5D08F512CE0}|Zad1\\Zad1.csproj|solutionrelative:zad1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jarek\\source\\repos\\AplikacjaOkienkowa\\Lab3\\Zad1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Zad1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jarek\\source\\repos\\AplikacjaOkienkowa\\Lab3\\Zad1\\Form1.Designer.cs",
+              "RelativeToolTip": "Zad1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwNgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:03:31.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\bin\Debug\net8.0\Zad2.exe
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\bin\Debug\net8.0\Zad2.deps.json
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\bin\Debug\net8.0\Zad2.runtimeconfig.json
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\bin\Debug\net8.0\Zad2.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\bin\Debug\net8.0\Zad2.pdb
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfoInputs.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfo.cs
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\refint\Zad2.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.pdb
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\Zad2.genruntimeconfig.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3_2\Zad2\obj\Debug\net8.0\ref\Zad2.dll

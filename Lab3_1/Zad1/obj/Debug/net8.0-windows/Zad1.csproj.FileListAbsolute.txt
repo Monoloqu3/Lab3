@@ -1,0 +1,16 @@
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\bin\Debug\net8.0-windows\Zad1.exe
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\bin\Debug\net8.0-windows\Zad1.deps.json
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\bin\Debug\net8.0-windows\Zad1.runtimeconfig.json
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\bin\Debug\net8.0-windows\Zad1.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\bin\Debug\net8.0-windows\Zad1.pdb
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.Form1.resources
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.csproj.GenerateResource.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.AssemblyInfoInputs.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.AssemblyInfo.cs
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\refint\Zad1.dll
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.pdb
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\Zad1.genruntimeconfig.cache
+C:\Users\Jarek\source\repos\AplikacjaOkienkowa\Lab3\Zad1\obj\Debug\net8.0-windows\ref\Zad1.dll
